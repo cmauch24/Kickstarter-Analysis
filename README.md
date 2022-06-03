@@ -14,6 +14,7 @@ Challenges faced when completing this analysis were ensuring that the correct fo
 
 ### Analysis of Outcomes Based on Launch Date
  
+ ![image](https://github.com/cmauch24/Kickstarter-Analysis/blob/b5bab547262ab7ee68c76c5f7916014bf91f21fa/Theatre%20Outcomes%20vs%20Launch.png)
 
 Based on the graph above, we see that May has the highest amount of successful campaign outcomes with 111 out of 166 campaigns ending in success. We also see that, with the exception of November to December, there is a direct correlation between the number of successful campaigns and the number of failed campaigns. While the numeric increase might be sharper for one outcome vs the other, the trends follow one another.
 
@@ -21,6 +22,7 @@ Despite the overall positive nature of the successful outcomes, it is recommende
 
 ### Analysis of Outcomes Based on Goals
  
+ ![image](https://github.com/cmauch24/Kickstarter-Analysis/blob/b5bab547262ab7ee68c76c5f7916014bf91f21fa/Outcomes%20vs%20Goals.png)
 
 Based on the graph above, we see that campaigns with a goal under $20000 are more likely to be successful, while campaigns above that threshold will have more volatility. Over 50% of campaigns staying under the $20000 mark for their goal saw success, with stronger results the lower the dollar amount went.
 
